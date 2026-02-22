@@ -119,7 +119,3 @@ In short, SkillSwap helps people:
 
 ---
 
-## Contributors
-
-- **Ayush Negi**
-- **Gourav Kumar**
